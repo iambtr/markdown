@@ -100,13 +100,14 @@
 1. McHale
 8. Parish
 
-
+~~~
     1.  Bird
     1.  McHale
     1.  Parish
     3. Bird
     1. McHale
     8. Parish
+~~~
 
 # 代码块
 ```
@@ -123,11 +124,13 @@
     > This is a blockquote
     > inside a list item.
 
-
+~~~
     *   A list item with a blockquote:
 
     > This is a blockquote
     > inside a list item.
+
+~~~
 
 # 避免列表
 
